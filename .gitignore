@@ -31,3 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
+src/main/java/br/com/alura/screenmatch/service/ConsultaChatGpt.java
